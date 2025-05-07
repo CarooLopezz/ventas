@@ -7,9 +7,10 @@ app = Flask(__name__)
 
 app.register_blueprint(client)
 
-
-app.config["SQLALCHEMY_DATABASE_URI"]= DATABASE_CONNECTION_URI
+app.config["SQLALCHEMY_DATABASE_URI"] = DATABASE_CONNECTION_URI
 app.config["SQLALCHEMY_TRACK_MODIFICATIONS"] = False
+
+
 
 db.init_app(app)
 
