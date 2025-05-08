@@ -1,0 +1,47 @@
+[
+    {
+      "client_id": 1,
+      "date": "2025-05-07",
+      "discount": 10.0,
+      "total_amount": 200.0,
+      "items": [
+        {
+          "product_name": "Producto A",
+          "unit_price": 50.0,
+          "quantity": 2
+        },
+        {
+          "product_name": "Producto B",
+          "unit_price": 100.0,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "client_id": 2,
+      "date": "2025-05-08",
+      "discount": 5.0,
+      "total_amount": 150.0,
+      "items": [
+        {
+          "product_name": "Producto C",
+          "unit_price": 75.0,
+          "quantity": 2
+        }
+      ]
+    },
+    {
+      "client_id": 3,
+      "date": "2025-05-09",
+      "discount": 15.0,
+      "total_amount": 170.0,
+      "items": [
+        {
+          "product_name": "Producto D",
+          "unit_price": 50.0,
+          "quantity": 3
+        }
+      ]
+    }
+  ]
+  
