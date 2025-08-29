@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Vino Malbec Reserva",
+    "price": 280.00,
+    "stock": 50,
+    "category_id": 1
+  },
+  {
+    "name": "Aceite de oliva virgen extra",
+    "price": 700.00,
+    "stock": 30,
+    "category_id": 1
+  },
+  {
+    "name": "Dulce de membrillo artesanal",
+    "price": 450.00,
+    "stock": 40,
+    "category_id": 1
+  },
+  {
+    "name": "Mermelada de durazno",
+    "price": 390.00,
+    "stock": 35,
+    "category_id": 1
+  },
+  {
+    "name": "Vino Torrontés",
+    "price": 310.00,
+    "stock": 25,
+    "category_id": 1
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "name": "Distribuciones Santa Fe",
+    "email": "contacto@santafedistribuciones.com",
+    "phone": "+54 342 555 1234"
+  },
+  {
+    "id": 2,
+    "name": "Tecnologías Globales S.A.",
+    "email": "ventas@tecnologiasglobales.com",
+    "phone": "+54 11 4321 5678"
+  },
+  {
+    "id": 3,
+    "name": "Soluciones Innovadoras",
+    "email": "info@solucionesinnovadoras.com",
+    "phone": "+54 9 351 789 4561"
+  },
+  {
+    "id": 4,
+    "name": "Logística Córdoba",
+    "email": "logistica@cordobalogistica.com",
+    "phone": "+54 351 123 9876"
+  },
+  {
+    "id": 5,
+    "name": "Proveedores del Sur",
+    "email": "contacto@proveedoressur.com",
+    "phone": "+54 2901 456 789"
+  }
+]

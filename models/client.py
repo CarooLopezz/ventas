@@ -20,4 +20,4 @@ class Client(db.Model):
             'name': self.name,
             'email': self.email,
             'phone': self.phone
-        }  
+        } 
